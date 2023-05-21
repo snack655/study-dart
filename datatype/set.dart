@@ -4,5 +4,5 @@ void main() {
 
   numbers.add(1);
   numbers.add(1);
-  print(numbers);
+  print(numbers); // {1, 2, 3, 4}
 }
