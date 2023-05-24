@@ -22,9 +22,7 @@ class Player with Strong, QuickRunner, Tall {
   });
 }
 
-class Horse with Strong, QuickRunner {
-
-}
+class Horse with Strong, QuickRunner {}
 
 class Kid with QuickRunner {}
 
