@@ -8,5 +8,5 @@ void main(List<String> args) {
   //  const DateTime now2 = DateTime.now();
 
   // 한번 선언 후 값을 변경할 수 없다는 점은 똑같다.
-  print(now2);
+  // print(now2);
 }

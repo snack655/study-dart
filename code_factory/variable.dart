@@ -62,4 +62,5 @@ void main(List<String> args) {
 
   // var 타입은 선언 후 그 타입이 고정된다.
   // dynamic 타입은 변경 가능.
+
 }
