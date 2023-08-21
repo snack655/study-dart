@@ -2,6 +2,6 @@ import 'pizza.dart';
 import 'pizza_type.dart';
 
 void main() {
-  Pizza();
+  //Pizza();
   print(Pizza.pizzaFactory(PizzaType.Cheese, "123").getName());
 }
